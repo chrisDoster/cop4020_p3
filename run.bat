@@ -1,0 +1,1 @@
+.env\Scripts\python.exe main.py fsa.txt legal1.txt & .env\Scripts\python.exe main.py fsa1.txt legal1_1.txt
